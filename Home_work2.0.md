@@ -23,3 +23,4 @@
 ## Используемая литература
 В текущей работе использовались дополнительные источники:
 * [Введение в Git: от установки до основных команд](https://tproger.ru/translations/beginner-git-cheatsheet/#part4)
+* [Краткое руководство по Маркдауну](https://paulradzkov.com/2014/markdown_cheatsheet/)
